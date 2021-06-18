@@ -1,25 +1,27 @@
-# PROJECT_NAME
+## PROJECT_NAME
 
-[TASK_REQUIREMENTS_HERE]
+*TODO: [ADD_TASK_REQUIREMENTS_HERE]*
 
-# Assumptions
+Solution by [Sophie Lewis](mailto:sophie@codewithdragos.com)
 
-[ASSUMPTIONS_MADE_HERE]
+## Assumptions
 
-# Proposed Solution
+*TODO: [ASSUMPTIONS_MADE_HERE]*
 
-[SOLUTION_DESCRIPTION]
+## Proposed Solution
+
+*TODO: [ADD_SOLUTION_DESCRIPTION]*
 - break down the steps you followed
 - use bullet points to explain it in a very structured way
 
 
-# Libraries / Tools Used
+## Libraries / Tools Used
 
 - React.js
 - Create React App for project setup
 - ...
 
-# Setup
+## Setup
 
 To install the dependencies run:
 
