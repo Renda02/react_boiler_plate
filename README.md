@@ -11,8 +11,12 @@ Solution by [Rendani Luvhengo](mailto:rluvhengo2@gmail.com)
 ## Proposed Solution
 
 *TODO: [ADD_SOLUTION_DESCRIPTION]*
-- break down the steps you followed
-- use bullet points to explain it in a very structured way
+- Set ReactRouter,
+-Add Link to the Postpage
+-PostPage add Link to UserPage
+- add /users/1/posts to the User to fetch all the post for single user.
+-build a pagination https://jsonplaceholder.typicode.com/comments?_limit=10&_page=3
+-keep in the state currentPage
 
 
 ## Libraries / Tools Used

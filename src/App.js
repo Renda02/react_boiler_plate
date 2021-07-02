@@ -1,12 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Switch } from "react-router-dom";
+import "./App.css";
+import PostList from "./PostList";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello there!</h1>
-      <button onClick={() => (alert("Hello world!"))} data-cy="btn-hello">Click me!</button>
-    </div>
+    <Router>
+      <Switch>
+        <div className="App">
+          <PostList />
+        </div>
+      </Switch>
+    </Router>
   );
 }
 
